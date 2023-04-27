@@ -1,0 +1,13 @@
+/*ncjkndsj*/
+@media screen and (min-width: 320px) and (max-width: 768px){
+    .bloc{
+        /* margin: 0 auto; */
+        background-color: red;
+    }
+    .textegauche{
+       display: none;
+     }
+    .image3{
+        display: none;
+    }
+    }

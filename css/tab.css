@@ -1,0 +1,18 @@
+@media screen and (min-width: 769px) and (max-width: 992px){
+    #d1,#d2,#d3,#d4,#d5{
+        display: none;
+        .entete2{
+            /* background-color:#d3e6bfbe; */
+            /* text-align: center; */
+            padding:-2%;
+        }
+        .alignement1{
+            color: rgb(255, 30, 0);
+             margin-bottom: 3%; 
+            font-size: 6px;
+            margin-left: -85% ;
+            /* float: left; */
+            margin-top: 1%;
+        }
+           
+    }
